@@ -6,6 +6,6 @@ int square(int x) {
 }
 int main() {
 
-    std::cout << "the Square root of 3 is " << square(3) << std::endl;
+    std::cout << "the Square root of 6 is " << square(6) << std::endl;
     return 0;
 }
